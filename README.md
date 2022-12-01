@@ -1,2 +1,3 @@
 # unit1
-show proof of concept through Packet Tracer files
+show understanding of network configuration concepts through Packet Tracer files.
+show proficiency in network automation with Ansible.
